@@ -1,3 +1,5 @@
+//@author Kien 
+
 import java.util.Scanner;
 
 public class ConsoleInOut implements InOut
